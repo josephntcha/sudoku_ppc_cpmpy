@@ -1,0 +1,30 @@
+# Environnement virtuel
+venv/
+.venv/
+env/
+
+# Fichiers compilés Python
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Tests et couverture
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Variables d'environnement
+.env
+
+# Éditeurs
+.vscode/
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
